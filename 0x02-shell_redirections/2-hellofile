@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'ncat /etc/passwd'
+less /etc/passwd'
